@@ -51,9 +51,12 @@ This project was developed as part of the Python Workshop Competition held by th
 ### Sentiment Analysis Results
 
 Positive or negative the given reviews
+
 ![image](https://github.com/user-attachments/assets/d63a19ba-b80b-4c6d-a310-5d814b504b8c)
 
+
 Catergorical distribution
+
 ![image](https://github.com/user-attachments/assets/2999fb12-496d-4fa6-b5a9-322831f93d7a)
 
 
