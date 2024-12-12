@@ -1,4 +1,4 @@
-# Vehicle Analysis and Sentiment Dashboard  
+# EDA, Dashboard using Dash and Sentimental Analysis on Vehicles in State of IL  
 
 This project was developed as part of the Python Workshop Competition held by the University of Sri Jayewardenepura (PyData). The project consists of three main tasks focusing on data cleaning, analysis, visualization, and sentiment analysis using state-of-the-art techniques.  
 
