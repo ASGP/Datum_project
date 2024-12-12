@@ -10,7 +10,8 @@ This project was developed as part of the Python Workshop held by the University
 - Conducted exploratory data analysis (EDA) to uncover trends and insights about vehicle characteristics and fuel types.  
 
 ### Task 2: Dashboard Creation  
-- Built an interactive dashboard using the cleaned dataset.  
+- Built an interactive dashboard using the cleaned dataset.
+- Used Dash and Flask to built the dashboard 
 - Visualizations include:  
   - Status breakdown of vehicles (active, inactive, etc.).  
   - Counts of vehicle types and wheelchair-accessible vehicles.  
@@ -45,6 +46,9 @@ This project was developed as part of the Python Workshop held by the University
 ### Dashboard
 
 
+### Dashboard
+
+![Screenshot_12-12-2024_74742_127 0 0 1](https://github.com/user-attachments/assets/12b69c56-a065-4263-bffc-fb1df2d0ca30)
 
 
 
